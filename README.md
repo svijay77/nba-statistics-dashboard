@@ -1,5 +1,3 @@
-# CS 498 E2E Final Project (sp24) repo for NetID: vijay5
-
 # NBA Player Statistics Dashboard
 
 ## Statement of Purpose
